@@ -8,3 +8,8 @@ b1 is a base
 
 b1 after rebase
 master2
+Branch1 work
+master after1
+b2 created
+
+b2 changed
