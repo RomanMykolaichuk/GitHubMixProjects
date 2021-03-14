@@ -11,4 +11,5 @@ package org.obrii.mit.mykolaichuk.gitcheck1;
  */
 public class Deploy_start {
     
+    
 }
