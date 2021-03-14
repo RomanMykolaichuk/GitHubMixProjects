@@ -26,3 +26,4 @@ b2 created
 b2 changed
 
 b1 is a base
+master2
