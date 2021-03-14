@@ -12,4 +12,5 @@ package org.obrii.mit.mykolaichuk.gitcheck1;
  */
 public class feature1Merge {
     
+    
 }
