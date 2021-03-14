@@ -1,2 +1,4 @@
 master after1
 b2 created
+
+b2 changed
