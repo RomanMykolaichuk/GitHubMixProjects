@@ -5,3 +5,5 @@ b2 created
 b2 changed
 
 b1 is a base
+
+b1 after rebase
